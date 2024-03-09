@@ -10,4 +10,4 @@ These 6 different exercises were:
 5. [Antibiotic resisatnce detection on the hybrid assembly](https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.html) (the continuation of the assembly from exercise 3)
 6. [Pathogen detection from (direct Nanopore) sequencing data using Galaxy - Foodborne Edition](https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.html)
 
-7. 
+
