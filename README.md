@@ -11,5 +11,3 @@ These 6 different exercises were:
 6. [Pathogen detection from (direct Nanopore) sequencing data using Galaxy - Foodborne Edition](https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.html)
 
 The Galaxy workflows for each of these exercises are found in their respective folders under the WORKFLOWS folder
-
-(PS: No images want to load in to the README files, so these are added seperatly as a jpg)
